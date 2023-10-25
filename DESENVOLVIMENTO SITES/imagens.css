@@ -1,0 +1,16 @@
+
+section {
+    text-align: left;
+}
+
+.imagem-container {
+    max-width: 400px; 
+    max-height: 400px;
+    width: 350px;  
+    height: 350px; 
+    padding: 1rem;   
+}
+
+
+
+
